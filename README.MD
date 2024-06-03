@@ -12,8 +12,8 @@ Para el tercer proyecto del bootcamp los estudiantes podrán elegir entre dos op
 
 # PROYECTO FINAL FULL STACK DE IDEA LIBRE
 ## PRIMERA FASE: DISEÑO 
-==FECHA INICIO: 3 JUN==
-==FECHA LIMITE: 16 JUN==
+- **FECHA INICIO**: 3 JUN
+- **FECHA LIMITE**: 16 JUN
 
 1. **Título del Proyecto**: Título claro y descriptivo para el proyecto que refleje su propósito principal.
 2. **Descripción**: Descripción detallada (máx. 1000 palabras) del proyecto, indicando las principales funcionalidades, roles de usuario y páginas.
@@ -45,25 +45,25 @@ Los usuarios podrán ver un listado de películas favoritas.
 
 #### 4. API DESIGN 
 
-POST /login {payload: (body)}
-POST /register {payload: (body)}
+- POST /login {payload: (body)}
+- POST /register {payload: (body)}
 
-GET /movies ==public==
-GET /movies/:movieId ==public==
+- GET /movies ==public==
+- GET /movies/:movieId ==public==
 
-GET /movies/search ==public== {query parameters: search (string), genres (array of strings)}
+- GET /movies/search ==public== {query parameters: search (string), genres (array of strings)}
 
-POST /movies ==admin== {payload: (body)}
-PUT /movies/:movieId ==admin== {payload: (body)}
-DELETE /movies/:movieId ==admin==
+- POST /movies ==admin== {payload: (body)}
+- PUT /movies/:movieId ==admin== {payload: (body)}
+- DELETE /movies/:movieId ==admin==
 
-GET /users/favorites ==user==
-PUT /users/favorites ==user== {payload: (body)}
+- GET /users/favorites ==user==
+- PUT /users/favorites ==user== {payload: (body)}
 
-GET /genres ==public==
-POST /genres ==admin== {payload: (body)}
-PUT /genres/:genreId ==admin== {payload: (body)}
-DELETE /genres/:genreId ==admin==
+- GET /genres ==public==
+- POST /genres ==admin== {payload: (body)}
+- PUT /genres/:genreId ==admin== {payload: (body)}
+- DELETE /genres/:genreId ==admin==
 
 #### 5. DISEÑO DE BASE DE DATOS
 
@@ -97,7 +97,7 @@ const genreSchema = new mongoose.Schema({
 ```
 
 ## SEGUNDA FASE: DESARROLLO
-==FECHA INICIO: AL FINALIZAR MODULO DE FRONTEND==
+- **FECHA INICIO**: AL FINALIZAR MODULO DE FRONTEND
 
 ### REQUISITOS TÉCNICOS 
 
