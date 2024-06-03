@@ -41,7 +41,7 @@ Los usuarios podrán ver un listado de películas favoritas.
 
 #### 3. WIREFRAME MID-FI
 
-![](attachment/wireframe%20midfi.png)
+![](attachment/wireframe-mid-fi.png)
 
 #### 4. API DESIGN 
 
@@ -69,9 +69,7 @@ DELETE /genres/:genreId ==admin==
 
 ##### 5.1. OPCIÓN MYSQL: MODELO ENTIDAD-RELACIÓN
 
-![](attachment/api-movies%202023-11-02%2010.35.42.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](attachment/api-movies%202023-11-02%2010.35.42.excalidraw.md), and the [dark exported image](attachment/api-movies%202023-11-02%2010.35.42.excalidraw.dark.svg)%%
-
+![](diagram-er.png)
 
 ##### 5.2 OPCIÓN MONGODB: SCHEMAS DE MONGOOSE
 
