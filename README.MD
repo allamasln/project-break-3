@@ -41,7 +41,7 @@ Los usuarios podrán ver un listado de películas favoritas.
 
 #### 3. WIREFRAME MID-FI
 
-![](attachment/wireframe-mid-fi.png)
+![](attachment/wireframe-midfi.png)
 
 #### 4. API DESIGN 
 
