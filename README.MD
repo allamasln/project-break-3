@@ -41,7 +41,7 @@ Los usuarios podrán ver un listado de películas favoritas.
 
 #### 3. WIREFRAME MID-FI
 
-![](attachment/wireframe-midfi.png)
+![](wireframe-midfi.png)
 
 #### 4. API DESIGN 
 
@@ -69,7 +69,7 @@ Los usuarios podrán ver un listado de películas favoritas.
 
 ##### 5.1. OPCIÓN MYSQL: MODELO ENTIDAD-RELACIÓN
 
-![](attachment/diagram-er.png)
+![](diagram-er.png)
 
 ##### 5.2 OPCIÓN MONGODB: SCHEMAS DE MONGOOSE
 
