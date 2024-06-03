@@ -69,7 +69,7 @@ Los usuarios podrán ver un listado de películas favoritas.
 
 ##### 5.1. OPCIÓN MYSQL: MODELO ENTIDAD-RELACIÓN
 
-![](diagram-er.png)
+![](attachment/diagram-er.png)
 
 ##### 5.2 OPCIÓN MONGODB: SCHEMAS DE MONGOOSE
 
