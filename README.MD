@@ -13,7 +13,7 @@ Para el tercer proyecto del bootcamp los estudiantes podrán elegir entre dos op
 # PROYECTO FINAL FULL STACK DE IDEA LIBRE
 ## PRIMERA FASE: DISEÑO 
 - **FECHA INICIO**: 3 JUN
-- **FECHA LIMITE**: 16 JUN
+- **FECHA LIMITE**: ANTES DE EMPEZAR EL PERIODO PARA DESARROLLAR EL DE PROJECT BREAK 3 (primeras semanas del modulo frontend)
 
 1. **Título del Proyecto**: Título claro y descriptivo para el proyecto que refleje su propósito principal.
 2. **Descripción**: Descripción detallada (máx. 1000 palabras) del proyecto, indicando las principales funcionalidades, roles de usuario y páginas.
