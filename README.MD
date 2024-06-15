@@ -4,7 +4,7 @@ Para el tercer proyecto del bootcamp los estudiantes podrán elegir entre dos op
 
 1. **PROYECTO FINAL FULL STACK DE IDEA LIBRE:** 
    
-   Para elegir esta opción será necesario validar la Primera Fase con el Profesor antes del 16 de Junio.
+   Para elegir esta opción será necesario validar la Primera Fase con el Profesor antes de comenzar el periodo de project break 3 (durante el módulo de frontend).
 
 2. **PROYECTO ESPECÍFICO FRONT END**:
    
